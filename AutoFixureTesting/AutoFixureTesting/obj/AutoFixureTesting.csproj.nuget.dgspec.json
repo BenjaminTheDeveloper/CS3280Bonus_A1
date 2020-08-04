@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixureTesting\\AutoFixureTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\AutoFixtureMoqPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\AutoFixtureMoqPractice.csproj",
+        "projectName": "AutoFixtureMoqPractice",
+        "projectPath": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\AutoFixtureMoqPractice.csproj",
+        "packagesPath": "C:\\Users\\Stu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixureTesting\\AutoFixureTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixureTesting\\AutoFixureTesting.csproj",
+        "projectName": "AutoFixureTesting",
+        "projectPath": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixureTesting\\AutoFixureTesting.csproj",
+        "packagesPath": "C:\\Users\\Stu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixureTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\AutoFixtureMoqPractice.csproj": {
+                "projectPath": "C:\\Users\\Stu\\Desktop\\BonusAssignment\\CS3280Bonus_A1\\AutoFixureTesting\\AutoFixtureMoqPractice\\AutoFixtureMoqPractice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

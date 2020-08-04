@@ -1,0 +1,13 @@
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.csprojAssemblyReference.cache
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.AssemblyInfoInputs.cache
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.AssemblyInfo.cs
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.csproj.CoreCompileInputs.cache
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.exe
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.deps.json
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.runtimeconfig.json
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.runtimeconfig.dev.json
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.dll
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\bin\Debug\netcoreapp3.1\AutoFixtureMoqPractice.pdb
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.dll
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.pdb
+C:\Users\Stu\Desktop\BonusAssignment\CS3280Bonus_A1\AutoFixureTesting\AutoFixtureMoqPractice\obj\Debug\netcoreapp3.1\AutoFixtureMoqPractice.genruntimeconfig.cache
